@@ -4,13 +4,14 @@ with Material UI
 
 
 ## How to run
-in primary folder:
----
+- In primary folder:
+```sh
 pip install -r requirements.txt
 python manage.py runserver
+```
 
-
-in ui folder:
----
+- In ui folder:
+```sh
 npm install
 npm run dev
+```
